@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu App</string>
+    <string name="title">Mission San Juan Bautista Food Menu</string>
+    <string name="editMenuname">"Edit Menu / Editar Menu "</string>
+    <string name="foodName">Comida</string>
+    <string name="foodPrice">Price</string>
+    <string name="price">Precio</string>
+    <string name="empty" />
+    <string name="submit">Add</string>
+</resources>
